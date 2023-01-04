@@ -4,7 +4,7 @@ using Microsoft.eShopWeb.Web.ViewModels;
 using Microsoft.Extensions.Options;
 
 namespace Microsoft.eShopWeb.Web.Pages;
-
+//JK comment add - 01/04/2023
 public class IndexModel : PageModel
 {
     private readonly ICatalogViewModelService _catalogViewModelService;

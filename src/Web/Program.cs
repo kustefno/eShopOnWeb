@@ -1,4 +1,4 @@
-﻿//JK's first change
+﻿//JK's second change
 using System.Net.Mime;
 using Ardalis.ListStartupServices;
 using BlazorAdmin;
